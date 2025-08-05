@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Gurion Ramapogu Sajeevan
+layout: minimal
+title: "Gurion Ramapogu Sajeevan | Data Analyst & ML Practitioner"
 ---
 
 # Gurion Ramapogu Sajeevan
