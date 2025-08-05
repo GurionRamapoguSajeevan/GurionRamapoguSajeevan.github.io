@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: cayman
 title: "Gurion Ramapogu Sajeevan | Data Analyst & ML Practitioner"
 ---
 
