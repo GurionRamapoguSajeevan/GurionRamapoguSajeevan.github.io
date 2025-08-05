@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Gurion Ramapogu Sajeevan
+# Hi, I'm Gurion Ramapogu Sajeevan
 
-🎯 Data Analytics professional with 4+ years of experience at Amazon turning raw data into meaningful business impact.
+_Data Analytics professional with 4+ years of experience at Amazon turning raw data into meaningful business impact._
 
-I specialize in designing scalable analytics pipelines, developing predictive models, and transforming complex datasets into actionable insights. With a passion for solving problems using data, I’ve led initiatives that have reduced costs, improved customer satisfaction, and enhanced operational efficiency across multiple domains — including e-commerce, energy, and healthcare.
+I specialize in designing scalable analytics pipelines, developing predictive models, and transforming complex datasets into actionable insights. With a passion for solving problems using data, I’ve led initiatives that have reduced costs, improved customer satisfaction, and enhanced operational efficiency across multiple domains including e-commerce, energy, and healthcare.
 
 ---
 
@@ -11,7 +11,7 @@ I specialize in designing scalable analytics pipelines, developing predictive mo
 - 📊 Reduced operational costs by **20–25%** through predictive modeling and automated reporting.
 - ⚙️ Built and deployed ML-driven anomaly detection, segmentation, and forecasting systems.
 - 📈 Developed interactive dashboards used by senior leadership for real-time decision-making.
-- 🤝 Strong communicator and collaborator — translating data into business language that drives action.
+- 🤝 Strong communicator and collaborator, translating data into business language that drives action.
 
 ---
 
@@ -70,7 +70,7 @@ _Malla Reddy Engineering College, India (2015 – 2019)_
 
 ## 📜 Certifications
 
-- 🧠 **Generative AI Fundamentals** – Databricks (June 2025)
+- **Generative AI Fundamentals** – Databricks (June 2025)
 
 ---
 
@@ -82,9 +82,7 @@ _Malla Reddy Engineering College, India (2015 – 2019)_
 
 ---
 
-## 🧩 Fun Fact
-
-I'm a strong believer that **data is only powerful when it's actionable** — and when paired with storytelling, it can drive change across any industry.
+I'm a strong believer that **data is only powerful when it's actionable**, and when paired with storytelling, it can drive change across any industry.
 
 ---
 
