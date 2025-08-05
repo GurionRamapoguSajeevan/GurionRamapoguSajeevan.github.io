@@ -20,8 +20,10 @@ I specialize in designing scalable analytics pipelines, developing predictive mo
 **Languages & Analysis**  
 `Python` | `SQL` | `R` | `Excel (Advanced)` | `PySpark`
 
-**Data Science & ML**  
-Predictive Modeling | Clustering (K-Means) | Random Forest | Logistic Regression | A/B Testing | Time Series
+**Data Science | AI & ML**  
+`Predictive Modeling` | `Clustering` | `A/B Testing`
+`Supervised Learning (Random Forest, Logistic Regression, XGBoost)` | `Unsupervised Learning (K-Means, DBSCAN, PCA)` | `Time Series Forecasting (ARIMA, Prophet)` |
+`Natural Language Processing (NLTK, spaCy, Transformers)` | `Deep Learning (Keras, TensorFlow, PyTorch)` | `Anomaly Detection` | `Model Deployment` | `A/B Testing` | `MLOps`
 
 **Visualization & BI**  
 `Power BI` | `Tableau` | `Looker` | `SSRS`
@@ -30,7 +32,7 @@ Predictive Modeling | Clustering (K-Means) | Random Forest | Logistic Regression
 `AWS (S3, Redshift, Glue, EMR)` | `Spark` | `Hadoop` | `Snowflake`
 
 **Workflow & Tools**  
-Agile | Git | JIRA | Confluence | CI/CD | GitHub Actions
+`Agile` | `Git` | `JIRA` | `Confluence` | `CI/CD` | `GitHub Actions`
 
 ---
 
