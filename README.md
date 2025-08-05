@@ -23,7 +23,8 @@ I specialize in designing scalable analytics pipelines, developing predictive mo
 **Data Science | AI & ML**  
 `Predictive Modeling` | `Clustering` | `A/B Testing`
 `Supervised Learning (Random Forest, Logistic Regression, XGBoost)` | `Unsupervised Learning (K-Means, DBSCAN, PCA)` | `Time Series Forecasting (ARIMA, Prophet)` |
-`Natural Language Processing (NLTK, spaCy, Transformers)` | `Deep Learning (Keras, TensorFlow, PyTorch)` | `Anomaly Detection` | `Model Deployment` | `A/B Testing` | `MLOps`
+`Natural Language Processing (NLTK, spaCy, Transformers)` | `Deep Learning (Keras, TensorFlow, PyTorch)` | `Anomaly Detection` | `Model Deployment (Flask, Streamlit, Docker)` | `A/B Testing` | 
+`MLOps (MLflow, Airflow - beginner)`
 
 **Visualization & BI**  
 `Power BI` | `Tableau` | `Looker` | `SSRS`
